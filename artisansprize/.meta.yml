@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/Redbot/miscdocs"
+docs_edit_uri: "edit/main/"
+docs_path_transform:
+  from: "projects/"
+  to: ""
